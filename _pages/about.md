@@ -32,7 +32,7 @@ Hi there! I am **Zhen Lin (林圳)**, a junior undergraduate at Hefei University
 
 **Zhen Lin**<sup>*</sup>, Qiujie Xie<sup>*</sup>, Minjun Zhu<sup>*</sup>, Shichen Li, Qiyao Sun, Enhao Gu, Yiran Ding, Ke Sun, Fang Guo, Panzhong Lu, Zhiyuan Ning, Yixuan Weng, Yue Zhang
 
-[**Paper**](https://arxiv.org/abs/2603.06674) | [**Code**](https://github.com/ResearAI/AutoFigure-Edit) | [**Demo**](https://deepscientist.cc)
+[**Code**](https://github.com/ResearAI/AutoFigure-Edit) | [**Demo**](https://deepscientist.cc)
 </div>
 </div>
 
@@ -46,7 +46,7 @@ Hi there! I am **Zhen Lin (林圳)**, a junior undergraduate at Hefei University
 
 Minjun Zhu<sup>*</sup>, **Zhen Lin**<sup>*</sup>, Yixuan Weng<sup>*</sup>, Panzhong Lu, Qiujie Xie, Yifan Wei, Sifan Liu, Qiyao Sun, Yue Zhang
 
-[**ArXiv**](https://arxiv.org/abs/2602.03828) |[**OpenReview**](https://openreview.net/forum?id=5N3z9JQJKq) |[**Code**](https://github.com/ResearAI/AutoFigure)
+[**OpenReview**](https://openreview.net/forum?id=5N3z9JQJKq) |[**Code**](https://github.com/ResearAI/AutoFigure)
 </div>
 </div>
 
@@ -54,10 +54,11 @@ Minjun Zhu<sup>*</sup>, **Zhen Lin**<sup>*</sup>, Yixuan Weng<sup>*</sup>, Panzh
 <div class='paper-box-image'>
   <div><div class="badge">ISPA 2025</div><img src='images/papers/micacl.png' alt="MICACL" width="100%"></div>
 </div>
-<div class='paper-box-text' markdown="1">[MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition](https://arxiv.org/abs/2509.04344)
+<div class='paper-box-text' markdown="1">
+
+[MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition](https://arxiv.org/abs/2509.04344)
 
 Feng-Qi Cui, **Zhen Lin**, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu
 
-[**Paper**](https://arxiv.org/abs/2509.04344)
 </div>
 </div>
