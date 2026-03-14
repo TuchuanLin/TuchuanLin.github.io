@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am **Zhen Lin (林圳)**, a junior undergraduate at[Hefei University of Technology (HFUT)](http://en.hfut.edu.cn/). I am deeply passionate about **AI Scientist** systems, driven by the ultimate goal of developing continuously self-evolving agents to push the boundaries of scientific discovery. Since 2025, I have been a visiting student at Westlake University's [WestlakeNLP](https://westlakenlp.com/) lab, and have been fortunate to receive guidance from [Prof. Yue Zhang](https://frcchang.github.io/). Always excited to meet new friends in the AI Scientist community. [Let's connect](mailto:tuchuan@mail.hfut.edu.cn) and build something cool together! 🚀
+Hi there! I am **Zhen Lin (林圳)**, a junior undergraduate at Hefei University of Technology (HFUT). I am deeply passionate about **AI Scientist** systems, driven by the ultimate goal of developing continuously self-evolving agents to push the boundaries of scientific discovery. Since 2025, I have been a visiting student at Westlake University's [WestlakeNLP](https://westlakenlp.com/) lab, and have been fortunate to receive guidance from [Prof. Yue Zhang](https://frcchang.github.io/). Always excited to meet new friends in the AI Scientist community. Let's connect and build something cool together.
 
-## 💻 Open Source Projects
+## Open Source Projects
 
 <div style="display:flex; flex-wrap:wrap; gap:0.6rem 1rem; align-items:center; margin-bottom: 2rem;">
   <span><a href="https://github.com/ResearAI/AutoFigure-Edit"><strong>AutoFigure-Edit</strong></a> <img alt="AutoFigure-Edit stars" src="https://img.shields.io/github/stars/ResearAI/AutoFigure-Edit?style=social"></span>
@@ -20,8 +20,7 @@ Hi there! I am **Zhen Lin (林圳)**, a junior undergraduate at[Hefei University
   <span><a href="https://github.com/ResearAI/Awesome-AI-Scientist"><strong>Awesome-AI-Scientist</strong></a> <img alt="Awesome-AI-Scientist stars" src="https://img.shields.io/github/stars/ResearAI/Awesome-AI-Scientist?style=social"></span>
 </div>
 
-## 📝 Selected Publications
-<p style="font-size: 0.9em; color: gray; margin-top: -10px;">(* indicates equal contribution)</p>
+## Selected Publications
 
 <div class='paper-box'>
 <div class='paper-box-image'>
