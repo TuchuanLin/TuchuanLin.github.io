@@ -14,11 +14,6 @@ I am **Zhen Lin (林圳)**, a junior undergraduate at **Hefei University of Tech
 
 Since **2025**, I have been a visiting student at [WestlakeNLP](https://westlakenlp.com/) at Westlake University, and have been fortunate to receive guidance from [Prof. Yue Zhang](https://frcchang.github.io/).
 
-# Research Focus
-- AI Scientist
-- Automated scientific figure generation and editing
-- Self-evolving research agents
-
 # Github Repo
 <div style="display:flex; flex-wrap:wrap; gap:0.6rem 1rem; align-items:center;">
   <span><a href="https://github.com/ResearAI/AutoFigure-Edit"><strong>AutoFigure-Edit</strong></a> <img alt="AutoFigure-Edit stars" src="https://img.shields.io/github/stars/ResearAI/AutoFigure-Edit?style=social"></span>
