@@ -8,25 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-I am **Lin Zhen (Tuchuan Lin)**, a junior undergraduate student at **Hefei University of Technology (HFUT)**.  
+I am **Zhen Lin (林圳)**, a junior undergraduate student at **Hefei University of Technology (HFUT)**.  
 My research focuses on the **AI Scientist** direction, with the goal of building a continuously self-evolving AI Scientist system.
 
-Since **2025**, I have been fortunate to receive guidance from **Prof. Yue Zhang** at Westlake University and to work as a visiting student in **WestlakeNLP**.
-
-- Advisor: [Prof. Yue Zhang](https://frcchang.github.io/)
-- Lab: [WestlakeNLP](https://westlakenlp.com/)
-- Google Scholar: [QGUExRAAAAAJ](https://scholar.google.com/citations?user=QGUExRAAAAAJ&hl=en) <a href='https://scholar.google.com/citations?user=QGUExRAAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-- GitHub: [TuchuanLin](https://github.com/TuchuanLin)
-- Email: [tuchuan@mail.hfut.edu.cn](mailto:tuchuan@mail.hfut.edu.cn)
+Since **2025**, I have been fortunate to receive guidance from [Prof. Yue Zhang](https://frcchang.github.io/) and to work as a visiting student in [WestlakeNLP](https://westlakenlp.com/) at Westlake University.
 
 # Research Focus
 - AI Scientist
@@ -39,7 +26,7 @@ Since **2025**, I have been fortunate to receive guidance from **Prof. Yue Zhang
 
 [AutoFigure](https://arxiv.org/abs/2602.03828)
 
-**Lin Zhen (co-first author)**, et al.
+**Authors:** Minjun Zhu<sup>*</sup>, **Zhen Lin**<sup>*</sup>, Yixuan Weng<sup>*</sup>, Panzhong Lu, Qiujie Xie, Yifan Wei, Sifan Liu, Qiyao Sun, Yue Zhang
 
 [**Paper**](https://arxiv.org/abs/2602.03828) | [**Code**](https://github.com/ResearAI/AutoFigure)
 - 600+ GitHub stars.
@@ -47,12 +34,12 @@ Since **2025**, I have been fortunate to receive guidance from **Prof. Yue Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/papers/autofigure-edit.png' alt="AutoFigure-Edit" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/papers/autofigure-edit.png' alt="AutoFigure-Edit" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AutoFigure-Edit](https://arxiv.org/abs/2603.06674)
 
-**Lin Zhen (first author)**, et al.
+**Authors:** **Zhen Lin**<sup>*</sup>, Qiujie Xie<sup>*</sup>, Minjun Zhu<sup>*</sup>, Shichen Li, Qiyao Sun, Enhao Gu, Yiran Ding, Ke Sun, Fang Guo, Panzhong Lu, Zhiyuan Ning, Yixuan Weng, Yue Zhang
 
 [**Paper**](https://arxiv.org/abs/2603.06674) | [**Code**](https://github.com/ResearAI/AutoFigure-Edit) | [**Demo**](https://deepscientist.cc)
 - 1.2k+ GitHub stars.
@@ -60,12 +47,12 @@ Since **2025**, I have been fortunate to receive guidance from **Prof. Yue Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ISPA</div><img src='images/papers/micacl.png' alt="IEEE ISPA Paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ISPA</div><img src='images/papers/micacl.png' alt="MICACL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IEEE ISPA Paper](https://arxiv.org/abs/2509.04344)
+[MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition](https://arxiv.org/abs/2509.04344)
 
-**Second author**
+**Authors:** Feng-Qi Cui, **Zhen Lin**, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu
 
 [**Paper**](https://arxiv.org/abs/2509.04344)
 </div>
