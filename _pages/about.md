@@ -10,23 +10,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Zhen Lin (林圳)**, a junior undergraduate student at **Hefei University of Technology (HFUT)**.  
-My research focuses on the **AI Scientist** direction, with the goal of building a continuously self-evolving AI Scientist system.
+I am **Zhen Lin (林圳)**, a junior undergraduate at **Hefei University of Technology (HFUT)**. My research centers on **AI Scientist** systems, with the long-term goal of developing continuously self-evolving research agents.
 
-Since **2025**, I have been fortunate to receive guidance from [Prof. Yue Zhang](https://frcchang.github.io/) and to work as a visiting student in [WestlakeNLP](https://westlakenlp.com/) at Westlake University.
+Since **2025**, I have been a visiting student at [WestlakeNLP](https://westlakenlp.com/) at Westlake University, under the guidance of [Prof. Yue Zhang](https://frcchang.github.io/).
 
 # Research Focus
 - AI Scientist
 - Automated scientific figure generation and editing
 - Self-evolving research agents
 
+# Github Repo
+- [AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)  
+  <img alt="AutoFigure-Edit stars" src="https://img.shields.io/github/stars/ResearAI/AutoFigure-Edit?style=social">
+- [AutoFigure](https://github.com/ResearAI/AutoFigure)  
+  <img alt="AutoFigure stars" src="https://img.shields.io/github/stars/ResearAI/AutoFigure?style=social">
+- [Awesome-AI-Scientist](https://github.com/ResearAI/Awesome-AI-Scientist)  
+  <img alt="Awesome-AI-Scientist stars" src="https://img.shields.io/github/stars/ResearAI/Awesome-AI-Scientist?style=social">
+
 # Selected Works
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/autofigure.png' alt="AutoFigure" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AutoFigure](https://arxiv.org/abs/2602.03828)
+[AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations](https://arxiv.org/abs/2602.03828)
 
-**Authors:** Minjun Zhu<sup>*</sup>, **Zhen Lin**<sup>*</sup>, Yixuan Weng<sup>*</sup>, Panzhong Lu, Qiujie Xie, Yifan Wei, Sifan Liu, Qiyao Sun, Yue Zhang
+Minjun Zhu<sup>*</sup>, **Zhen Lin**<sup>*</sup>, Yixuan Weng<sup>*</sup>, Panzhong Lu, Qiujie Xie, Yifan Wei, Sifan Liu, Qiyao Sun, Yue Zhang
 
 [**Paper**](https://arxiv.org/abs/2602.03828) | [**Code**](https://github.com/ResearAI/AutoFigure)
 - 600+ GitHub stars.
@@ -37,9 +44,9 @@ Since **2025**, I have been fortunate to receive guidance from [Prof. Yue Zhang]
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/papers/autofigure-edit.png' alt="AutoFigure-Edit" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AutoFigure-Edit](https://arxiv.org/abs/2603.06674)
+[AutoFigure-Edit: Generating Editable Scientific Illustration](https://arxiv.org/abs/2603.06674)
 
-**Authors:** **Zhen Lin**<sup>*</sup>, Qiujie Xie<sup>*</sup>, Minjun Zhu<sup>*</sup>, Shichen Li, Qiyao Sun, Enhao Gu, Yiran Ding, Ke Sun, Fang Guo, Panzhong Lu, Zhiyuan Ning, Yixuan Weng, Yue Zhang
+**Zhen Lin**<sup>*</sup>, Qiujie Xie<sup>*</sup>, Minjun Zhu<sup>*</sup>, Shichen Li, Qiyao Sun, Enhao Gu, Yiran Ding, Ke Sun, Fang Guo, Panzhong Lu, Zhiyuan Ning, Yixuan Weng, Yue Zhang
 
 [**Paper**](https://arxiv.org/abs/2603.06674) | [**Code**](https://github.com/ResearAI/AutoFigure-Edit) | [**Demo**](https://deepscientist.cc)
 - 1.2k+ GitHub stars.
@@ -47,20 +54,13 @@ Since **2025**, I have been fortunate to receive guidance from [Prof. Yue Zhang]
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ISPA</div><img src='images/papers/micacl.png' alt="MICACL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPA 2025</div><img src='images/papers/micacl.png' alt="MICACL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition](https://arxiv.org/abs/2509.04344)
 
-**Authors:** Feng-Qi Cui, **Zhen Lin**, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu
+Feng-Qi Cui, **Zhen Lin**, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu
 
 [**Paper**](https://arxiv.org/abs/2509.04344)
 </div>
 </div>
-
-# Education
-- **Hefei University of Technology (HFUT)**, Undergraduate student (junior).
-
-# Collaboration
-I welcome academic exchange and collaboration in any form.  
-If you are interested in AI Scientist, feel free to reach out by email.
