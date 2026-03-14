@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhen Lin"
-description              : "Junior undergraduate at Hefei University of Technology, focusing on AI Scientist research."
+description              :
 repository               : "TuchuanLin/TuchuanLin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhen Lin (林圳)"
-  avatar           : "images/profile/linzhen.png"
-  bio              : "Junior Undergraduate @ HFUT | Visiting Student @ WestlakeNLP"
+  avatar           : "images/profile/linzhen.jpg"
+  bio              :
   location         : "Hefei, China"
   employer         :
   pubmed           : 

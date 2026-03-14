@@ -12,7 +12,7 @@ redirect_from:
 
 I am **Zhen Lin (林圳)**, a junior undergraduate at **Hefei University of Technology (HFUT)**. My research centers on **AI Scientist** systems, with the long-term goal of developing continuously self-evolving research agents.
 
-Since **2025**, I have been a visiting student at [WestlakeNLP](https://westlakenlp.com/) at Westlake University, under the guidance of [Prof. Yue Zhang](https://frcchang.github.io/).
+Since **2025**, I have been a visiting student at [WestlakeNLP](https://westlakenlp.com/) at Westlake University, and have been fortunate to receive guidance from [Prof. Yue Zhang](https://frcchang.github.io/).
 
 # Research Focus
 - AI Scientist
@@ -20,12 +20,11 @@ Since **2025**, I have been a visiting student at [WestlakeNLP](https://westlake
 - Self-evolving research agents
 
 # Github Repo
-- [AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)  
-  <img alt="AutoFigure-Edit stars" src="https://img.shields.io/github/stars/ResearAI/AutoFigure-Edit?style=social">
-- [AutoFigure](https://github.com/ResearAI/AutoFigure)  
-  <img alt="AutoFigure stars" src="https://img.shields.io/github/stars/ResearAI/AutoFigure?style=social">
-- [Awesome-AI-Scientist](https://github.com/ResearAI/Awesome-AI-Scientist)  
-  <img alt="Awesome-AI-Scientist stars" src="https://img.shields.io/github/stars/ResearAI/Awesome-AI-Scientist?style=social">
+<div style="display:flex; flex-wrap:wrap; gap:0.6rem 1rem; align-items:center;">
+  <span><a href="https://github.com/ResearAI/AutoFigure-Edit"><strong>AutoFigure-Edit</strong></a> <img alt="AutoFigure-Edit stars" src="https://img.shields.io/github/stars/ResearAI/AutoFigure-Edit?style=social"></span>
+  <span><a href="https://github.com/ResearAI/AutoFigure"><strong>AutoFigure</strong></a> <img alt="AutoFigure stars" src="https://img.shields.io/github/stars/ResearAI/AutoFigure?style=social"></span>
+  <span><a href="https://github.com/ResearAI/Awesome-AI-Scientist"><strong>Awesome-AI-Scientist</strong></a> <img alt="Awesome-AI-Scientist stars" src="https://img.shields.io/github/stars/ResearAI/Awesome-AI-Scientist?style=social"></span>
+</div>
 
 # Selected Works
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/autofigure.png' alt="AutoFigure" width="100%"></div></div>
