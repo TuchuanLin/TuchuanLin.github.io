@@ -24,7 +24,7 @@ Hi there! I am **Zhen Lin (林圳)**, a junior undergraduate at Hefei University
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-  <div><div class="badge">ArXiv</div><img src='images/papers/autofigure-edit.png' alt="AutoFigure-Edit" width="100%"></div>
+  <div><div class="badge">ACL 2026 Demo</div><img src='images/papers/autofigure-edit.png' alt="AutoFigure-Edit" width="100%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
